@@ -99,6 +99,7 @@
             },
             {
                 "commandline": "python.exe",
+                "guid": "{10463186-ff0b-424a-9a07-8ba421e212e7}",
                 "icon": "C:\\Program Files\\Python39\\DLLs\\pyc.ico",
                 "name": "Python",
                 "tabTitle": "Python"
